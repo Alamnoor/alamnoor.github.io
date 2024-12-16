@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Porto, Portugal"
   employer         : "CISTER Research Center Porto"
-  uri              : # URL
+  uri              : "https://www.cister.isep.ipp.pt/people/alam_noor/" # URL
   email            : "alamn@isep.ipp.pt" 
 
   # Academic websites
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-0077-6509"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Alam-Noor" # URL
   scopus           : # URL
 
   # Repositories and software development
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
