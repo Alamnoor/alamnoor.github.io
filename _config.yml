@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "alam.png"
+  avatar           : "bio-photo.png"
   name             : "Alam Noor, PhD Candidate"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, CISTER Research Center Porto/ PhD Candidate in FEUP"
